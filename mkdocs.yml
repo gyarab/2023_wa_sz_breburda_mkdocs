@@ -1,1 +1,7 @@
 site_name: UwU
+
+nav:
+  - WA 3. hodina: 'wa_3.md'
+  - Maturita ČJ: 'maturita.md'
+
+theme: ivory
